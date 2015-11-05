@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'senthilkumar.srinivasan@yahoo.in'
   s.files       = ["lib/graph.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/hola'
+    'http://rubygems.org/gems/graph'
   s.license       = 'MIT'
 end
